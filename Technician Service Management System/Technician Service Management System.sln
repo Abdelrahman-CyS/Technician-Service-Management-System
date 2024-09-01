@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technician Service Management System", "Technician Service Management System\Technician Service Management System.csproj", "{4D946B95-0C93-4A26-B14A-12907AA91ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D946B95-0C93-4A26-B14A-12907AA91ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D946B95-0C93-4A26-B14A-12907AA91ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D946B95-0C93-4A26-B14A-12907AA91ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D946B95-0C93-4A26-B14A-12907AA91ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05806EA-489B-4577-A9F9-7C68C0279F79}
+	EndGlobalSection
+EndGlobal
